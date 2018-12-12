@@ -1,4 +1,4 @@
-/* @pjs preload="flag.png"; */ 
+/* @pjs preload="blue background.png"; */ 
 
 PImage back;
 PImage rocket;
